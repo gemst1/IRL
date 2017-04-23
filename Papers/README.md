@@ -1,5 +1,5 @@
 # Leading IRL Papers
-Inverse Reinforcement Learning, Inverse Optimal Control, Apprenticeship Learning
+This includes some remarkable papers in field of inverse reinforcement learning from introduction of IRL concept to recent connection with GANs
 
 ## Paper list
 1. 2000 - Algorithms for Inverse Reinforcement Learning - Andrew Y. Ng, Stuart Russell
