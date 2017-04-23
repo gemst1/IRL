@@ -2,7 +2,7 @@
 Inverse Reinforcement Learning, Inverse Optimal Control
 
 ## Papers
-[Papers](https://github.com/Jeonwonseok/IRL/tree/master/Papers) 
+[Papers](https://github.com/Jeonwonseok/IRL/tree/master/Papers) includes leading papers in IRL
 Apprenticeship Learning via Inverse Reinforcement Learning
 - ICML, 2004
 - Author : Pieter Abbeel, Andrew Y. Ng
