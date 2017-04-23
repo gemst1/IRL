@@ -5,7 +5,7 @@ Inverse Reinforcement Learning, Inverse Optimal Control, Apprenticeship Learning
 [Papers](https://github.com/Jeonwonseok/IRL/tree/master/Papers) includes leading papers in IRL
 - 2000 - Algorithms for Inverse Reinforcement Learning
 - 2004 - Apprenticeship Learning via Inverse Reinforcement Learning
-- 2008 - Maximum Entropy Inverse Reinforcement Learning - Brian D. Ziebart, Andrew Maas, J.Andrew Bagnell, Anind K. Dey
+- 2008 - Maximum Entropy Inverse Reinforcement Learning
 - 2011 - Nonlinear Inverse Reinforcement Learning with Gaussian Processes
 - 2015 - Deep Inverse Reinforcement Learning
 - 2016 - A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models
