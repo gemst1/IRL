@@ -1,9 +1,12 @@
 # Codes
+Some useful codes related to Inverse Reinforcement Learning developed by brilliant researchers.
 
-## IRL Toolkit
+Some of them edited by me.
 
-[irl_toolkit](https://github.com/Jeonwonseok/IRL/tree/master/Codes/irl_toolkit) includes IRL Toolkit
+## List
 
-IRL Toolkit is created by Sergey Levine
+### IRL Toolkit
+
+[irl_toolkit](https://github.com/Jeonwonseok/IRL/tree/master/Codes/irl_toolkit) includes IRL Toolkit created by Sergey Levine
 
 Original Source code taken from https://graphics.stanford.edu/projects/gpirl/
