@@ -9,3 +9,7 @@ This includes some remarkable papers in field of inverse reinforcement learning 
 5. 2015 - Deep Inverse Reinforcement Learning - Markus Wulfmeier, Peter Ondruska, Ingmar Posner
 6. 2016 - A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models - Chelsea Finn, Paul Christiano, Pieter Abbeel, Sergey Levine
 7. 2016 - Generative Adversarial Imitation Learning - Jonathan Ho, Stefano Ermon
+8. etc.
+
+## Summary
+[summary.pdf](./summary.pdf) Brief review in imitation learning include IRL papers listed above.
