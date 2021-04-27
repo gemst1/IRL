@@ -8,6 +8,7 @@ Inverse Reinforcement Learning, Inverse Optimal Control, Apprenticeship Learning
 - 2008 - Maximum Entropy Inverse Reinforcement Learning
 - 2011 - Nonlinear Inverse Reinforcement Learning with Gaussian Processes
 - 2015 - Deep Inverse Reinforcement Learning
+- 2016 - Guided cost learning - Deep inverse optimal control via policy optimization
 - 2016 - A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models
 - 2016 - Generative Adversarial Imitation Learning
 
