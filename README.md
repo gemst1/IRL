@@ -11,7 +11,12 @@ Inverse Reinforcement Learning, Inverse Optimal Control, Apprenticeship Learning
 - 2016 - Guided cost learning - Deep inverse optimal control via policy optimization
 - 2016 - A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models
 - 2016 - Generative Adversarial Imitation Learning
-- etc.
+- 2017 - Third Person Imiataion Learning
+- 2018 - Generative adversarial imitation learning from observation
+- 2018 - Time-Contrsative Networks - self-supervised learning from video
+- 2018 - Behavioral cloning from observation
+- 2018 - Imitation from observation - learning to imitate behaviors from raw video via context translation
+- 2019 - Imitation latent policied from observation
 
 [summary.pdf](./Papers/summary.pdf) My brief literature review about imitation learning
 
