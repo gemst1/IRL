@@ -12,4 +12,4 @@ This includes some remarkable papers in field of inverse reinforcement learning 
 8. etc.
 
 ## Summary
-[summary.pdf](./summary.pdf) Brief review in imitation learning include IRL papers listed above.
+[summary.pdf](./summary.pdf) My brief review in imitation learning literature including IRL papers listed above.
