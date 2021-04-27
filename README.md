@@ -11,6 +11,9 @@ Inverse Reinforcement Learning, Inverse Optimal Control, Apprenticeship Learning
 - 2016 - Guided cost learning - Deep inverse optimal control via policy optimization
 - 2016 - A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models
 - 2016 - Generative Adversarial Imitation Learning
+- etc.
+
+[summary.pdf](./Papers/summary.pdf) My brief literature review about imitation learning
 
 ## Codes
 [Codes](https://github.com/Jeonwonseok/IRL/tree/master/Codes) includes some useful IRL codes developed by brilliant researchers and some of them edited by me
